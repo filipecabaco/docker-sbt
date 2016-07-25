@@ -1,4 +1,4 @@
-FROM filipecabaco/java-jre:8
+FROM filipecabaco/jre:8
 
 ENV SBT_VERSION 0.13.12
 ENV SBT_HOME /usr/local/sbt
